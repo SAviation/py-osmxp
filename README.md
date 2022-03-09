@@ -9,6 +9,7 @@ Python OpenStreetMap to X-Plane.
 ## Future Plans
 - Autogen buildings based on OSM information
 - Augotgen Excluded Areas based on OSM information
+- 7zip Support
 
 # Credits
 [Jonathan Harris - Original Creator of OSMXP](https://www.marginal.org.uk/x-planescenery/index.html)
